@@ -17,10 +17,10 @@ officeparser: https://github.com/unixfreak0037/officeparser
 ```
 
 Instructions for MacroParserAnalyzer.py
-```
+
 ![MacroParserAnalzer-Help-Menu](https://user-images.githubusercontent.com/82185592/117372685-e4643800-ae97-11eb-833a-f622f5988760.jpg)
 
-```
+
 
 License
 ```
