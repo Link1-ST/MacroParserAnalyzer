@@ -2,7 +2,7 @@
 
 Author: Saarthik Tannan
 
-Notes
+# Notes
 ```
 This program works with Python 3
 
@@ -16,13 +16,13 @@ officeparser: https://github.com/unixfreak0037/officeparser
 
 ```
 
-Instructions for MacroParserAnalyzer.py
+# Instructions for MacroParserAnalyzer.py
 
 ![MacroParserAnalzer-Help-Menu](https://user-images.githubusercontent.com/82185592/117372685-e4643800-ae97-11eb-833a-f622f5988760.jpg)
 
 
 
-License
+# License
 ```
 olevba is copyright (c) 2014-2021 Philippe Lagadec (http://www.decalage.info)
 # All rights reserved.
