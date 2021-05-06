@@ -18,7 +18,7 @@ officeparser: https://github.com/unixfreak0037/officeparser
 
 Instructions for MacroParserAnalyzer.py
 ```
-![Optional Text](../main/MacroParserAnalzer-Help-Menu.jpg)
+<img src=main/MacroParserAnalzer-Help-Menu.jpg"
 ```
 
 License
