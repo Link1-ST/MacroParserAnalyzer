@@ -6,7 +6,7 @@ Notes
 ```
 This program works with Python 3.
 
-This program currently supports: MS Office 2003 file types -- .doc and .xls.
+This program currently supports: MS Office 2003 file types -- .doc and .xls (does not work with password protected files)
 
 Portions of the code for MacroParserAnalyzer are taken from olevba and officeparser:
 
