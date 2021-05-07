@@ -8,6 +8,10 @@ This program works with Python 3.
 
 This program currently supports: MS Office 2003 file types -- .doc and .xls (does not work with password protected files)
 
+Need to install two libraries:
+  pip3 install olefile
+  pip3 install oletools
+
 Portions of the code for MacroParserAnalyzer are taken from olevba and officeparser:
 
   olevba: https://github.com/decalage2/oletools/blob/master/oletools/olevba.py
