@@ -4,7 +4,7 @@ Author: Saarthik Tannan
 
 Notes
 ```
-This program works with Python 3.
+This program works with Python 3. The purpose of this tool is parse and analyze macro code.
 
 This program currently supports: MS Office 2003 file types -- .doc and .xls (does not work with password protected files)
 
